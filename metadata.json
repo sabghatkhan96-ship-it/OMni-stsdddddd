@@ -1,0 +1,6 @@
+{
+  "name": "OmniStream - Advanced Social Media Downloader",
+  "description": "High-performance multi-platform video, audio, and thumbnail downloader for Instagram, TikTok, YouTube, X, Facebook, and more with quality selection and batch queue.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
